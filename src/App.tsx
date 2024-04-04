@@ -57,7 +57,7 @@ function App() {
     <>
       <div id="Contener">
         <div id="Custom-inputs">
-          <TextForm page={page} setPage={setPage} label="Page" />;
+          <TextForm page={page} setPage={setPage} label="Page" />
           <TextForm page={pageSize} setPage={setPageSize} label="Pagesize" />
           <OrderSelect order={order} setOrder={setOrder} />
           <SortSelect sort={sort} setSort={setSort} />
