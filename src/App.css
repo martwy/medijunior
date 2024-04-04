@@ -1,0 +1,21 @@
+.App {
+  width: 100vh;
+  height: 100vh;
+}
+
+#Custom-inputs {
+  display: flex;
+}
+
+#Contener {
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #282829;
+}
+
+#error-icon {
+  display: inline;
+  margin-top: 3px;
+}
